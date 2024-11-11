@@ -3,6 +3,10 @@
 ## Overview
 This project implements a Convolutional Neural Network (CNN) to classify images of dogs and cats. The model leverages deep learning techniques to achieve high accuracy in distinguishing between these two popular pet categories.
 
+## Project Workflow
+
+<img src = "/workflow.jpeg">
+
 ## Features
 - **Image Classification**: Utilizes CNN architecture to effectively classify images into dog or cat categories.
 - **Data Augmentation**: Enhances training datasets through data augmentation techniques, improving model performance and robustness.
