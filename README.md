@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## Project Workflow
 
-<img src = "/workflow.jpeg">
+<img src = "/workflow-cnn.jpeg">
 
 ## Features
 - **Image Classification**: Utilizes CNN architecture to effectively classify images into dog or cat categories.
